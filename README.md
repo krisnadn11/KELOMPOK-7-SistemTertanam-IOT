@@ -1,6 +1,6 @@
 # Tugas Akhir Sistem Tertanam dan IOT Kelompok 7
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg" alt="NODE 123" width="771" height="400"><br>
-  <figcaption> _Disusun untuk memenuhi UAS Mata Kuliah Sistem Tertanam dan Internet of Things_ <br><br></figcaption>
+  <figcaption> Disusun untuk memenuhi UAS Mata Kuliah Sistem Tertanam dan Internet of Things</figcaption>
 
 ### Kelompok 7 
 
