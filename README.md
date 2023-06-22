@@ -1,8 +1,8 @@
-# Tugas Akhir Sistem Tertanam dan IOT - Kelompok 7
+# Tugas Akhir Sistem Tertanam dan IOT Kelompok 7
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg" alt="NODE 123" width="771" height="400"><br>
-  <figcaption>Disusun untuk memenugi UAS Mata Kuliah Sistem Tertanam dan Internet of Things</figcaption>
+  <figcaption>_Disusun untuk memenuhi UAS Mata Kuliah Sistem Tertanam dan Internet of Things_</figcaption>
 
-### Topologi Mesh Network 
+### Kelompok 7 
 
 #### Anggota 1
 Nama    : Krisna Dwi Nurikhsani
@@ -33,15 +33,15 @@ Keuntungan utama dari proyek mesh WiFi network adalah sebagai berikut:
 - Konfigurasi yang Mudah: Node-node dalam jaringan mesh biasanya terhubung secara otomatis dan melakukan konfigurasi sendiri. Ini memudahkan pemasangan dan pengoperasian jaringan tanpa memerlukan pengetahuan teknis yang mendalam.
 
 ## Dokumentasi
-### Node 1 (DHT 22
+#### Node 1 (DHT 22
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%201.jpg" alt="NODE 1" width="500" height="500"><br>
   <figcaption>DHT22 adalah sensor suhu dan kelembaban yang akurat. Sensor ini mampu mengukur suhu dalam rentang -40 hingga 80 derajat Celsius dan kelembaban relatif antara 0 hingga 100.</figcaption>
 
-### Node 2 (MQ-2)
+#### Node 2 (MQ-2)
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%202.jpg" alt="NODE 2" width="500" height="500"><br>
   <figcaption>MQ-2 adalah sensor gas yang dapat mendeteksi berbagai gas seperti LPG, propana, metana, karbon monoksida, dan banyak lainnya.</figcaption>
 
-### Node 3 (GP2y1014AU0F/ Sensor Debu)
+#### Node 3 (GP2y1014AU0F/ Sensor Debu)
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%203.jpg" alt="NODE 3" width="500" height="500"><br>
   <figcaption>GP2Y1014AU0F yang merupakan sensor debu. Sensor ini dapat mendeteksi partikel-partikel debu dalam udara.</figcaption>
 
