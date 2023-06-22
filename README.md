@@ -1,6 +1,6 @@
 # Tugas Akhir Sistem Tertanam dan IOT Kelompok 7
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg" alt="NODE 123" width="771" height="400"><br>
-  <figcaption>_Disusun untuk memenuhi UAS Mata Kuliah Sistem Tertanam dan Internet of Things_</figcaption>
+  <figcaption>_Disusun untuk memenuhi UAS Mata Kuliah Sistem Tertanam dan Internet of Things_ <br></figcaption>
 
 ### Kelompok 7 
 
@@ -44,5 +44,6 @@ Keuntungan utama dari proyek mesh WiFi network adalah sebagai berikut:
 #### Node 3 (GP2y1014AU0F/ Sensor Debu)
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%203.jpg" alt="NODE 3" width="500" height="500"><br>
   <figcaption>GP2Y1014AU0F yang merupakan sensor debu. Sensor ini dapat mendeteksi partikel-partikel debu dalam udara.</figcaption>
+
 
 Dalam topologi mesh network, ketiga node ini bekerja secara terhubung dan saling berkomunikasi satu sama lain. Data yang dikumpulkan oleh masing-masing sensor pada setiap node akan dikirim melalui jaringan mesh ke dashboard Blynk. Dashboard Blynk dapat digunakan untuk memvisualisasikan dan memantau data dari ketiga sensor tersebut secara real-time, memberikan visualisasi yang lebih baik mengenai kondisi suhu, kelembaban, gas, dan debu di sekitar jaringan tersebut.
