@@ -1,8 +1,6 @@
 # Tugas Akhir Sistem Tertanam dan IOT - Kelompok 7
-<details>
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg" alt="NODE 123" width="771" height="400"><br>
   <figcaption>Disusun untuk memenugi UAS Mata Kuliah Sistem Tertanam dan Internet of Things</figcaption>
-</details>
 
 ### Topologi Mesh Network 
 
@@ -23,8 +21,6 @@ NIM     : 2003466
 
 
 ## Tentang Projek Kami
-
-
 Proyek mesh WiFi network adalah upaya untuk menciptakan jaringan nirkabel yang kuat dan handal dengan menggunakan teknologi mesh networking. Konsep dasar dari jaringan mesh adalah adanya beberapa titik akses atau node yang saling terhubung dan bekerja bersama untuk menyediakan konektivitas internet yang luas dan konsisten di seluruh area yang dituju.
 
 Dalam jaringan mesh WiFi, setiap node bertindak sebagai poin akses atau repeater untuk memperluas jangkauan jaringan. Node-node ini saling berkomunikasi satu sama lain secara otonom, membentuk jalur komunikasi tanpa kabel antara satu node dengan node lainnya. Dengan adanya jalur komunikasi alternatif ini, jaringan mesh dapat mengatasi hambatan seperti jarak jauh, tembok tebal, atau interferensi sinyal yang umumnya mengurangi kualitas jaringan nirkabel.
@@ -38,21 +34,15 @@ Keuntungan utama dari proyek mesh WiFi network adalah sebagai berikut:
 
 ## Dokumentasi
 ### Node 1 (DHT 22
-<details>
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%201.jpg" alt="NODE 1" width="771" height="400"><br>
   <figcaption>DHT22 adalah sensor suhu dan kelembaban yang akurat. Sensor ini mampu mengukur suhu dalam rentang -40 hingga 80 derajat Celsius dan kelembaban relatif antara 0 hingga 100.</figcaption>
-</details>
 
 ### Node 2 (MQ-2)
-<details>
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%202.jpg" alt="NODE 2" width="771" height="400"><br>
   <figcaption>MQ-2 adalah sensor gas yang dapat mendeteksi berbagai gas seperti LPG, propana, metana, karbon monoksida, dan banyak lainnya.</figcaption>
-</details>
 
 ### Node 3 (GP2y1014AU0F/ Sensor Debu)
-<details>
 <img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%203.jpg" alt="NODE 3" width="771" height="400"><br>
   <figcaption>GP2Y1014AU0F yang merupakan sensor debu. Sensor ini dapat mendeteksi partikel-partikel debu dalam udara.</figcaption>
-</details>
 
 Dalam topologi mesh network, ketiga node ini bekerja secara terhubung dan saling berkomunikasi satu sama lain. Data yang dikumpulkan oleh masing-masing sensor pada setiap node akan dikirim melalui jaringan mesh ke dashboard Blynk. Dashboard Blynk dapat digunakan untuk memvisualisasikan dan memantau data dari ketiga sensor tersebut secara real-time, memberikan visualisasi yang lebih baik mengenai kondisi suhu, kelembaban, gas, dan debu di sekitar jaringan tersebut.
