@@ -34,15 +34,15 @@ Keuntungan utama dari proyek mesh WiFi network adalah sebagai berikut:
 
 ## Dokumentasi
 ### Node 1 (DHT 22
-<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%201.jpg" alt="NODE 1" width="771" height="400"><br>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%201.jpg" alt="NODE 1" width="500" height="500"><br>
   <figcaption>DHT22 adalah sensor suhu dan kelembaban yang akurat. Sensor ini mampu mengukur suhu dalam rentang -40 hingga 80 derajat Celsius dan kelembaban relatif antara 0 hingga 100.</figcaption>
 
 ### Node 2 (MQ-2)
-<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%202.jpg" alt="NODE 2" width="771" height="400"><br>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%202.jpg" alt="NODE 2" width="500" height="500"><br>
   <figcaption>MQ-2 adalah sensor gas yang dapat mendeteksi berbagai gas seperti LPG, propana, metana, karbon monoksida, dan banyak lainnya.</figcaption>
 
 ### Node 3 (GP2y1014AU0F/ Sensor Debu)
-<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%203.jpg" alt="NODE 3" width="771" height="400"><br>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%203.jpg" alt="NODE 3" width="500" height="500"><br>
   <figcaption>GP2Y1014AU0F yang merupakan sensor debu. Sensor ini dapat mendeteksi partikel-partikel debu dalam udara.</figcaption>
 
 Dalam topologi mesh network, ketiga node ini bekerja secara terhubung dan saling berkomunikasi satu sama lain. Data yang dikumpulkan oleh masing-masing sensor pada setiap node akan dikirim melalui jaringan mesh ke dashboard Blynk. Dashboard Blynk dapat digunakan untuk memvisualisasikan dan memantau data dari ketiga sensor tersebut secara real-time, memberikan visualisasi yang lebih baik mengenai kondisi suhu, kelembaban, gas, dan debu di sekitar jaringan tersebut.
