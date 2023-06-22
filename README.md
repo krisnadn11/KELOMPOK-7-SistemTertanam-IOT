@@ -1,24 +1,29 @@
 # Tugas Akhir Sistem Tertanam dan IOT - Kelompok 7
+<details>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%20123.jpg" alt="NODE 123" width="771" height="400"><br>
+  <figcaption>Disusun untuk memenugi UAS Mata Kuliah Sistem Tertanam dan Internet of Things</figcaption>
+</details>
 
-## Mesh Wi-Fi Network
+### Topologi Mesh Network 
 
-### Anggota 1
+#### Anggota 1
 Nama    : Krisna Dwi Nurikhsani
 
 NIM     : 2008610
 
-### Anggota 2
+#### Anggota 2
 Nama    : Muhammad Rizaldi Setiawan
 
 NIM     : 2008403
 
-### Anggota 3
+#### Anggota 3
 Nama    : Gizfa Satria Putra Pamungkas
 
 NIM     : 2003466
 
 
 ## Tentang Projek Kami
+
 
 Proyek mesh WiFi network adalah upaya untuk menciptakan jaringan nirkabel yang kuat dan handal dengan menggunakan teknologi mesh networking. Konsep dasar dari jaringan mesh adalah adanya beberapa titik akses atau node yang saling terhubung dan bekerja bersama untuk menyediakan konektivitas internet yang luas dan konsisten di seluruh area yang dituju.
 
@@ -31,10 +36,23 @@ Keuntungan utama dari proyek mesh WiFi network adalah sebagai berikut:
 - Kehandalan Tinggi: Dengan adanya jalur komunikasi alternatif antara node, jaringan mesh dapat menangani kegagalan atau gangguan pada satu node dengan beralih ke jalur lain secara otomatis. Ini memungkinkan ketersediaan jaringan yang tinggi dan mengurangi risiko pemadaman atau gangguan yang mempengaruhi konektivitas.
 - Konfigurasi yang Mudah: Node-node dalam jaringan mesh biasanya terhubung secara otomatis dan melakukan konfigurasi sendiri. Ini memudahkan pemasangan dan pengoperasian jaringan tanpa memerlukan pengetahuan teknis yang mendalam.
 
-Meskipun jaringan mesh WiFi memiliki banyak keuntungan, ada beberapa kelemahan yang perlu diperhatikan:
+## Dokumentasi
+### Node 1 (DHT 22
+<details>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%201.jpg" alt="NODE 1" width="771" height="400"><br>
+  <figcaption>DHT22 adalah sensor suhu dan kelembaban yang akurat. Sensor ini mampu mengukur suhu dalam rentang -40 hingga 80 derajat Celsius dan kelembaban relatif antara 0 hingga 100.</figcaption>
+</details>
 
-- Biaya yang Lebih Tinggi: Implementasi jaringan mesh WiFi mungkin membutuhkan node-node tambahan, yang dapat meningkatkan biaya proyek secara keseluruhan dibandingkan dengan jaringan WiFi tradisional.
-- Latensi yang Sedikit Lebih Tinggi: Dalam jaringan mesh, data mungkin harus melalui beberapa node sebelum mencapai tujuan akhirnya. Hal ini dapat menyebabkan sedikit peningkatan latensi atau penundaan dalam transmisi data dibandingkan dengan jaringan WiFi dengan satu titik akses.
-- Kompleksitas Administrasi: Mengelola dan memelihara jaringan mesh WiFi yang kompleks mungkin memerlukan keahlian teknis yang lebih tinggi. Konfigurasi dan pemecahan masalah dapat menjadi lebih rumit dibandingkan dengan jaringan WiFi tradisional.
+### Node 2 (MQ-2)
+<details>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%202.jpg" alt="NODE 2" width="771" height="400"><br>
+  <figcaption>MQ-2 adalah sensor gas yang dapat mendeteksi berbagai gas seperti LPG, propana, metana, karbon monoksida, dan banyak lainnya.</figcaption>
+</details>
 
-Secara keseluruhan, proyek mesh WiFi network menawarkan solusi yang kuat untuk memperluas jangkauan dan meningkatkan keandalan jaringan nirkabel. Namun, sebelum menerapkan proyek ini, penting untuk mempertimbangkan kebutuhan spesifik, anggaran, dan kemampuan teknis untuk memastikan kesesuaian dan keberhasilan implementasi.
+### Node 3 (GP2y1014AU0F/ Sensor Debu)
+<details>
+<img src="https://github.com/krisnadn11/SistemTertanam-IOT/blob/main/NODE%203.jpg" alt="NODE 3" width="771" height="400"><br>
+  <figcaption>GP2Y1014AU0F yang merupakan sensor debu. Sensor ini dapat mendeteksi partikel-partikel debu dalam udara.</figcaption>
+</details>
+
+Dalam topologi mesh network, ketiga node ini bekerja secara terhubung dan saling berkomunikasi satu sama lain. Data yang dikumpulkan oleh masing-masing sensor pada setiap node akan dikirim melalui jaringan mesh ke dashboard Blynk. Dashboard Blynk dapat digunakan untuk memvisualisasikan dan memantau data dari ketiga sensor tersebut secara real-time, memberikan visualisasi yang lebih baik mengenai kondisi suhu, kelembaban, gas, dan debu di sekitar jaringan tersebut.
